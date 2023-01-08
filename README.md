@@ -28,7 +28,8 @@ I am a Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 
 - :iphone: My socials: [![VK Badge](https://img.shields.io/badge/-VK-blue?style=flat&logo=VK&logoColor=white)](https://vk.com/da_saenko), 
 [![WhatsApp Badge](https://img.shields.io/badge/-ЯДзен-brightgreen?style=flat&logo=yandex&logoColor=white)](https://dzen.ru/denissaenko), 
-[![Habr Badge](https://img.shields.io/badge/-Habr-9cf?style=flat&logo=Habr&logoColor=white)](https://habr.com/ru/users/denissaenko/)
+[![Habr Badge](https://img.shields.io/badge/-Habr-9cf?style=flat&logo=Habr&logoColor=white)](https://habr.com/ru/users/denissaenko/),
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)](https://ru.stackoverflow.com/users/342180/peresvet)
 
 -----------
 
