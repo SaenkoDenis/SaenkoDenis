@@ -15,10 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div id="counter" align="center">
-<img src="https://komarev.com/ghpvc/?username=SaenkoDenis&style=flat-square&color=blue" alt=""/>
-</div>
-
 ----------------
 
 <p>
@@ -62,7 +58,7 @@ I am a Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 
 ### :fire: My Stats:
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SaenkoDenis&show_icons=true&layout=compact&langs_count=8&hide=jupyter%20notebook&exclude_repo=DataCamp_projects&hide_border=true&theme=flag-india" alt="stats" /></a> | <a href="https://git.io/streak-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SaenkoDenis&hide_border=true" alt="stats" /></a></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SaenkoDenis&show_icons=true&layout=compact&langs_count=8&exclude_repo=DataCamp_projects&hide_border=true&theme=flag-india" alt="stats" /></a> | <a href="https://git.io/streak-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SaenkoDenis&hide_border=true" alt="stats" /></a></a> |
 | ------------- | ------------- |
 
 
@@ -76,3 +72,6 @@ I am a Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 
 </details>
 
+<div id="counter" align="center">
+<img src="https://komarev.com/ghpvc/?username=SaenkoDenis&style=flat-square&color=blue" alt=""/>
+</div>
